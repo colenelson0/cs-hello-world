@@ -4,7 +4,7 @@ This program prints "Hello, World" to the user, pauses for 1 second, prompts the
 
 The purpose of the program is to show others that I have preexisting programming knowledge and experience.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Demo/Walkthrough Video](https://www.youtube.com/watch?v=z4bmxAehufE)
 
 # Development Environment
 
