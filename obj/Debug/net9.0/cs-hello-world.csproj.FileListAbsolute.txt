@@ -1,0 +1,15 @@
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/obj/Debug/net9.0/cs-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/obj/Debug/net9.0/cs-hello-world.AssemblyInfoInputs.cache
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/obj/Debug/net9.0/cs-hello-world.AssemblyInfo.cs
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/obj/Debug/net9.0/cs-hello-world.csproj.CoreCompileInputs.cache
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/obj/Debug/net9.0/cs-hello-world.sourcelink.json
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/bin/Debug/net9.0/cs-hello-world
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/bin/Debug/net9.0/cs-hello-world.deps.json
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/bin/Debug/net9.0/cs-hello-world.runtimeconfig.json
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/bin/Debug/net9.0/cs-hello-world.dll
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/bin/Debug/net9.0/cs-hello-world.pdb
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/obj/Debug/net9.0/cs-hello-world.dll
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/obj/Debug/net9.0/refint/cs-hello-world.dll
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/obj/Debug/net9.0/cs-hello-world.pdb
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/obj/Debug/net9.0/cs-hello-world.genruntimeconfig.cache
+/Users/jcolen/Desktop/school/Winter 2025/cse310/cs-hello-world/obj/Debug/net9.0/ref/cs-hello-world.dll
