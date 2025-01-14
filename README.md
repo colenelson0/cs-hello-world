@@ -15,5 +15,5 @@ The program was coded in C#.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [Microsoft Learn, .NET Console.Readline](https://learn.microsoft.com/en-us/dotnet/api/system.console.readline?view=net-9.0)
 * [Web Site Name](http://url.link.goes.here)
